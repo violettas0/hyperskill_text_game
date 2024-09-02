@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Text Based Adventure Game/*
+!/Text Based Adventure Game/task/
+/Text Based Adventure Game/task/*
+!/Text Based Adventure Game/task/game.py
+!/Text Based Adventure Game/task/data
